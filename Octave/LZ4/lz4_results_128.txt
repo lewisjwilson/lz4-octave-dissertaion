@@ -1,0 +1,105 @@
+LZ4 Encoder Results
+
+
+filename = a0020.txt
+Elapsed time is 0.025423 seconds.
+File Write Complete.
+Original File Size: 20 bytes
+Encoded File Size: 23 bytes
+Compression: 115%
+
+
+filename = a0270.txt
+Elapsed time is 23.8524 seconds.
+File Write Complete.
+Original File Size: 270 bytes
+Encoded File Size: 24 bytes
+Compression: 8.88889%
+
+
+filename = cp.html
+Elapsed time is 10.5879 seconds.
+File Write Complete.
+Original File Size: 24603 bytes
+Encoded File Size: 20347 bytes
+Compression: 82.7013%
+
+
+filename = fields.c
+Elapsed time is 7.51781 seconds.
+File Write Complete.
+Original File Size: 11150 bytes
+Encoded File Size: 7580 bytes
+Compression: 67.9821%
+
+
+filename = grammar.lsp
+Elapsed time is 2.57215 seconds.
+File Write Complete.
+Original File Size: 3721 bytes
+Encoded File Size: 2198 bytes
+Compression: 59.0701%
+
+
+filename = ico.bmp
+Elapsed time is 157.246 seconds.
+File Write Complete.
+Original File Size: 12918 bytes
+Encoded File Size: 1383 bytes
+Compression: 10.706%
+
+
+filename = obj1
+Elapsed time is 949.11 seconds.
+File Write Complete.
+Original File Size: 21504 bytes
+Encoded File Size: 15282 bytes
+Compression: 71.0658%
+
+
+filename = paper1
+Elapsed time is 34.0341 seconds.
+File Write Complete.
+Original File Size: 53161 bytes
+Encoded File Size: 46979 bytes
+Compression: 88.3712%
+
+
+filename = poem.txt
+Elapsed time is 1.40199 seconds.
+File Write Complete.
+Original File Size: 2578 bytes
+Encoded File Size: 2323 bytes
+Compression: 90.1086%
+
+
+filename = progc
+Elapsed time is 25.8593 seconds.
+File Write Complete.
+Original File Size: 39611 bytes
+Encoded File Size: 31206 bytes
+Compression: 78.7811%
+
+
+filename = progp
+Elapsed time is 50.1669 seconds.
+File Write Complete.
+Original File Size: 49379 bytes
+Encoded File Size: 34136 bytes
+Compression: 69.1306%
+
+
+filename = sum
+Elapsed time is 67.5066 seconds.
+File Write Complete.
+Original File Size: 38240 bytes
+Encoded File Size: 26615 bytes
+Compression: 69.5999%
+
+
+filename = xargs.1
+Elapsed time is 2.1035 seconds.
+File Write Complete.
+Original File Size: 4227 bytes
+Encoded File Size: 3544 bytes
+Compression: 83.842%

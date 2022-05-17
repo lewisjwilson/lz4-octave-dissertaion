@@ -1,0 +1,105 @@
+LZ4 Encoder Results
+
+
+filename = a0020.txt
+Elapsed time is 0.0230389 seconds.
+File Write Complete.
+Original File Size: 20 bytes
+Encoded File Size: 23 bytes
+Compression: 115%
+
+
+filename = a0270.txt
+Elapsed time is 27.8389 seconds.
+File Write Complete.
+Original File Size: 270 bytes
+Encoded File Size: 24 bytes
+Compression: 8.88889%
+
+
+filename = cp.html
+Elapsed time is 25.1459 seconds.
+File Write Complete.
+Original File Size: 24603 bytes
+Encoded File Size: 15477 bytes
+Compression: 62.907%
+
+
+filename = fields.c
+Elapsed time is 18.5693 seconds.
+File Write Complete.
+Original File Size: 11150 bytes
+Encoded File Size: 6134 bytes
+Compression: 55.0135%
+
+
+filename = grammar.lsp
+Elapsed time is 6.71394 seconds.
+File Write Complete.
+Original File Size: 3721 bytes
+Encoded File Size: 1893 bytes
+Compression: 50.8734%
+
+
+filename = ico.bmp
+Elapsed time is 565.531 seconds.
+File Write Complete.
+Original File Size: 12918 bytes
+Encoded File Size: 1344 bytes
+Compression: 10.4041%
+
+
+filename = obj1
+Elapsed time is 2546.57 seconds.
+File Write Complete.
+Original File Size: 21504 bytes
+Encoded File Size: 13685 bytes
+Compression: 63.6393%
+
+
+filename = paper1
+Elapsed time is 79.2538 seconds.
+File Write Complete.
+Original File Size: 53161 bytes
+Encoded File Size: 39617 bytes
+Compression: 74.5227%
+
+
+filename = poem.txt
+Elapsed time is 3.78039 seconds.
+File Write Complete.
+Original File Size: 2578 bytes
+Encoded File Size: 2080 bytes
+Compression: 80.6827%
+
+
+filename = progc
+Elapsed time is 61.4151 seconds.
+File Write Complete.
+Original File Size: 39611 bytes
+Encoded File Size: 26519 bytes
+Compression: 66.9486%
+
+
+filename = progp
+Elapsed time is 141.598 seconds.
+File Write Complete.
+Original File Size: 49379 bytes
+Encoded File Size: 27299 bytes
+Compression: 55.2846%
+
+
+filename = sum
+Elapsed time is 204.195 seconds.
+File Write Complete.
+Original File Size: 38240 bytes
+Encoded File Size: 24181 bytes
+Compression: 63.2348%
+
+
+filename = xargs.1
+Elapsed time is 5.08939 seconds.
+File Write Complete.
+Original File Size: 4227 bytes
+Encoded File Size: 2998 bytes
+Compression: 70.925%
