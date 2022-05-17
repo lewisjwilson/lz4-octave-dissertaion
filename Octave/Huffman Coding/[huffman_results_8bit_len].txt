@@ -1,0 +1,92 @@
+Huffman Encoder Results [8bit_fixed_length]
+
+
+filename = a0020.txt
+Elapsed time is 0.0168509 seconds.
+8-bit Fixed-Length File Size: 160 bits
+Encoded Size: 68 bits
+Compression: 42.50%
+
+
+filename = a0270.txt
+Elapsed time is 0.155127 seconds.
+8-bit Fixed-Length File Size: 2160 bits
+Encoded Size: 318 bits
+Compression: 14.72%
+
+
+filename = cp.html
+Elapsed time is 28.8985 seconds.
+8-bit Fixed-Length File Size: 196824 bits
+Encoded Size: 139004 bits
+Compression: 70.62%
+
+
+filename = fields.c
+Elapsed time is 13.0811 seconds.
+8-bit Fixed-Length File Size: 89200 bits
+Encoded Size: 66014 bits
+Compression: 74.01%
+
+
+filename = grammar.lsp
+Elapsed time is 4.36842 seconds.
+8-bit Fixed-Length File Size: 29768 bits
+Encoded Size: 25772 bits
+Compression: 86.58%
+
+
+filename = ico.bmp
+Elapsed time is 14.4367 seconds.
+8-bit Fixed-Length File Size: 103344 bits
+Encoded Size: 24195 bits
+Compression: 23.41%
+
+
+filename = obj1
+Elapsed time is 25.3026 seconds.
+8-bit Fixed-Length File Size: 172032 bits
+Encoded Size: 159288 bits
+Compression: 92.59%
+
+
+filename = paper1
+Elapsed time is 61.4977 seconds.
+8-bit Fixed-Length File Size: 425288 bits
+Encoded Size: 277404 bits
+Compression: 65.23%
+
+
+filename = poem.txt
+Elapsed time is 3.01176 seconds.
+8-bit Fixed-Length File Size: 20624 bits
+Encoded Size: 16656 bits
+Compression: 80.76%
+
+
+filename = progc
+Elapsed time is 45.8642 seconds.
+8-bit Fixed-Length File Size: 316888 bits
+Encoded Size: 217006 bits
+Compression: 68.48%
+
+
+filename = progp
+Elapsed time is 57.4524 seconds.
+8-bit Fixed-Length File Size: 395032 bits
+Encoded Size: 251764 bits
+Compression: 63.73%
+
+
+filename = sum
+Elapsed time is 44.7673 seconds.
+8-bit Fixed-Length File Size: 305920 bits
+Encoded Size: 237175 bits
+Compression: 77.53%
+
+
+filename = xargs.1
+Elapsed time is 4.95881 seconds.
+8-bit Fixed-Length File Size: 33816 bits
+Encoded Size: 28869 bits
+Compression: 85.37%
