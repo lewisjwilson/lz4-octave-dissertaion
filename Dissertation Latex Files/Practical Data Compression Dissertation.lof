@@ -1,0 +1,18 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces A Huffman Tree generated for the data `\textbf {aaaabcd}'\relax }}{10}
+\contentsline {figure}{\numberline {2}{\ignorespaces Generation of a simple Huffman tree\relax }}{12}
+\contentsline {figure}{\numberline {3}{\ignorespaces Huffman tree for `\textbf {aabbbccccd}'\relax }}{14}
+\contentsline {figure}{\numberline {4}{\ignorespaces Search Buffer and Look-Ahead Window\relax }}{15}
+\contentsline {figure}{\numberline {5}{\ignorespaces LZ4 Standard Data Block Format\relax }}{19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Uncompressed data to be encoded with LZ4\relax }}{20}
+\contentsline {figure}{\numberline {7}{\ignorespaces LZ4 encoded data to be decompressed\relax }}{21}
+\contentsline {figure}{\numberline {8}{\ignorespaces Generating the Huffman Tree structure as an array\relax }}{24}
+\contentsline {figure}{\numberline {9}{\ignorespaces Pseudo-code for Huffman Tree structure traversal\relax }}{25}
+\contentsline {figure}{\numberline {10}{\ignorespaces Huffman Tree from tree\_struct\relax }}{26}
+\contentsline {figure}{\numberline {11}{\ignorespaces Pseudo-code to match encoded data with Huffman codes\relax }}{29}
+\contentsline {figure}{\numberline {12}{\ignorespaces 8-bit Codes vs. Minimum Codes vs. Encoded Huffman Data [File Sizes]\relax }}{40}
+\contentsline {figure}{\numberline {13}{\ignorespaces LZ4 Encoder [128-4096 byte buffer] vs Huffman Encoder Compression\relax }}{45}
+\contentsline {figure}{\numberline {14}{\ignorespaces Average LZ4 vs Huffman Encoder Compression\relax }}{46}
+\contentsline {figure}{\numberline {15}{\ignorespaces Average LZ4 vs Huffman Encoder Runtime\relax }}{47}
+\contentsline {figure}{\numberline {16}{\ignorespaces Implementation vs. Commercial Encoder Compression\relax }}{53}
+\contentsline {figure}{\numberline {17}{\ignorespaces Decoder Runtime for Test Files\relax }}{55}
+\contentsline {figure}{\numberline {18}{\ignorespaces Median Decoder Runtime for Test Files\relax }}{55}

@@ -1,0 +1,38 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Cyan}{2011}{lz4_explained}
+Cyan  \harvardyearleft 2011\harvardyearright , `Lz4 explained', Website.
+\newblock Accessed: 16/11/2017.
+\newline\harvardurl{http://fastcompression.blogspot.co.uk/2011/05/lz4-explained.html}
+
+\harvarditem{Dapeng~Wu \harvardand\ Peha}{2001}{internet_video_streaming}
+Dapeng~Wu, Yiwei Thomas~Hou, W. Z. Y.-Q.~Z. \harvardand\ Peha, J.~M.
+  \harvardyearleft 2001\harvardyearright , {\em Streaming Video over the
+  Internet: Approaches and Directions} pp.~283--285.
+
+\harvarditem{LZ4-GitHub}{2017}{lz4_github}
+LZ4-GitHub  \harvardyearleft 2017\harvardyearright , `Lz4 - extremely fast
+  compression', Website.
+\newblock Accessed: 07/11/2017.
+\newline\harvardurl{http://lz4.github.io/lz4/}
+
+\harvarditem{Pu}{2004}{ipu_dc}
+Pu, I.  \harvardyearleft 2004\harvardyearright , {\em Data Compression},
+  University of London, Russell Square, London, United Kingdom.
+
+\harvarditem{Salomon}{2007}{dc_complete_ref}
+Salomon, D.  \harvardyearleft 2007\harvardyearright , {\em Data Compression:
+  The Complete Reference}, Springer Science + Business Media, LLC, Northridge,
+  California, USA.
+
+\harvarditem{Ticki-GitHub}{2016}{how_lz4_works}
+Ticki-GitHub  \harvardyearleft 2016\harvardyearright , `How lz4 works',
+  Website.
+\newblock Accessed: 07/11/2017.
+\newline\harvardurl{http://ticki.github.io/blog/how-lz4-works/}
+
+\harvarditem{Ziv \harvardand\ Lempel}{1977}{lz77}
+Ziv, J. \harvardand\ Lempel, A.  \harvardyearleft 1977\harvardyearright , {\em
+  A Universal Algorithm for Sequential Data Compression} pp.~337--343.
+
+\end{thebibliography}

@@ -1,0 +1,33 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Big Endian Format\relax }}{5}
+\contentsline {table}{\numberline {2}{\ignorespaces Little Endian Format\relax }}{5}
+\contentsline {table}{\numberline {3}{\ignorespaces Text to ASCII-8 code representation\relax }}{6}
+\contentsline {table}{\numberline {4}{\ignorespaces Japanese Kanji to UTF-16 code representation\relax }}{7}
+\contentsline {table}{\numberline {5}{\ignorespaces Text to revised (shorter) code representation\relax }}{7}
+\contentsline {table}{\numberline {6}{\ignorespaces Symbols with sample unary values\relax }}{8}
+\contentsline {table}{\numberline {7}{\ignorespaces The Roman alphabet with sample unary values\relax }}{8}
+\contentsline {table}{\numberline {8}{\ignorespaces Symbols and their assigned codes (including non-prefix codes)\relax }}{9}
+\contentsline {table}{\numberline {9}{\ignorespaces Symbols and their assigned codes (prefix codes)\relax }}{10}
+\contentsline {table}{\numberline {10}{\ignorespaces Efficiency example symbols and their assigned codes\relax }}{14}
+\contentsline {table}{\numberline {11}{\ignorespaces LZ77 Dictionary Token Creation\relax }}{16}
+\contentsline {table}{\numberline {12}{\ignorespaces LZ77 Dictionary Token Decoding\relax }}{17}
+\contentsline {table}{\numberline {13}{\ignorespaces LZ77 Example 1 Dictionary\relax }}{18}
+\contentsline {table}{\numberline {14}{\ignorespaces LZ77 Example 2 Dictionary (Hexadecimal)\relax }}{18}
+\contentsline {table}{\numberline {15}{\ignorespaces Huffman Encoder Compression Results [8-bit Fixed-Length Codes]\relax }}{37}
+\contentsline {table}{\numberline {16}{\ignorespaces Minimum Fixed Code Lengths for Test Files\relax }}{38}
+\contentsline {table}{\numberline {17}{\ignorespaces Huffman Encoder Compression Results [Minimum Fixed-Length Codes]\relax }}{39}
+\contentsline {table}{\numberline {18}{\ignorespaces LZ4 Encoder Compression Results [128 byte search buffer]\relax }}{42}
+\contentsline {table}{\numberline {19}{\ignorespaces LZ4 Encoder Compression Results [256 byte search buffer]\relax }}{42}
+\contentsline {table}{\numberline {20}{\ignorespaces LZ4 Encoder Compression Results [512 byte search buffer]\relax }}{43}
+\contentsline {table}{\numberline {21}{\ignorespaces LZ4 Encoder Compression Results [1024 byte search buffer]\relax }}{43}
+\contentsline {table}{\numberline {22}{\ignorespaces LZ4 Encoder Compression Results [2048 byte search buffer]\relax }}{44}
+\contentsline {table}{\numberline {23}{\ignorespaces LZ4 Encoder Compression Results [4096 byte search buffer]\relax }}{44}
+\contentsline {table}{\numberline {24}{\ignorespaces SmalLZ4 Encoder Size Results\relax }}{49}
+\contentsline {table}{\numberline {25}{\ignorespaces SmalLZ4 Encoder Compression Results\relax }}{49}
+\contentsline {table}{\numberline {26}{\ignorespaces WinRAR Encoder Size Results\relax }}{50}
+\contentsline {table}{\numberline {27}{\ignorespaces WinRAR Encoder Compression Results\relax }}{51}
+\contentsline {table}{\numberline {28}{\ignorespaces 7-Zip Encoder Size Results\relax }}{52}
+\contentsline {table}{\numberline {29}{\ignorespaces 7-Zip Encoder Compression Results\relax }}{52}
+\contentsline {table}{\numberline {30}{\ignorespaces Implemented Decoder Runtime Results\relax }}{54}
+\contentsline {table}{\numberline {31}{\ignorespaces Longest Match Encoding\relax }}{58}
+\contentsline {table}{\numberline {32}{\ignorespaces Optimised Encoding\relax }}{59}
+\contentsline {table}{\numberline {33}{\ignorespaces Test File Information\relax }}{61}
